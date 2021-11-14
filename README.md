@@ -1,2 +1,2 @@
-# Applied-Data-Science-Capstone--IBM-Coursera
+# Loan Prediction Analysis
 The-Battle-of-Neighborhoods-Capstone-Project.

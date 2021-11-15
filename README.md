@@ -1,8 +1,5 @@
-# Loan Prediction Analysis
-The-Battle-of-Neighborhoods-Capstone-Project.
 
-
-# Loan Prediction System for Banks
+# Loan Prediction calculator  for Banks & financial Institutions.
 ![](Images/1.%20Loan%20Prediction%20System.png)
 
 

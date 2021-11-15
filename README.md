@@ -116,7 +116,7 @@ Now the distribution for LoanAmount looks much closer to normal and effect of ex
 
 # Building the Baseline Model:
 For the baseline model, I have chosen a simple logistic regression model to predict the loan status. The training data is divided into training and validation set. In this way we can validate our predictions as we have the true predictions for the validation part.
-The baseline logistic regression model has given an accuracy of 84%. From the classification report, the F-1 score obtained is 82%.
+The baseline Random Forest Classifier model has given an accuracy of 80%.
 
 # Feature Engineering:
 Based on the domain knowledge, we can come up with new features that might affect the target variable. We can come up with following new three features:
@@ -144,7 +144,7 @@ The model building code can be found here: <a href= https://github.com/SaravanaS
 ![](Images/9.%20Model%20Comparision.png)
 
 
-After trying and testing 4 different algorithms, the best predictions are given by Logistic Regression Model, with an F-1 Score of 82%.
+After trying and testing 4 different algorithms, the best predictions are given by Random Forest Cssifier Model, with  80%.
 
 The following actions were taken to achieve this result:
 

@@ -138,7 +138,7 @@ StratifiedShuffleSplit is used as a cross validation technique in this problem.
 The advantage of using this cross-validation technique is that it is a merge of StratifiedKFold and ShuffleSplit, which returns stratified randomized folds. The folds are made by preserving the percentage of samples for each class.
 
 After creating new features, we can continue the model building process. So, we will start with logistic regression model and then move over to more complex models like Decision Tree, Random Forest and XGBoost.
-The model building code can be found here: <a href= https://github.com/aafaz/Loan-Prediction-System/blob/master/Code/Model%20Building.ipynb> Model Building Code File </a>
+The model building code can be found here: <a href= https://github.com/SaravanaSource/Loan_Eligibility_Calculator-/blob/main/Loan%20Prediction%20Analysis%20-%20Classification.ipynb> Model Building Code File </a>
 
 # Model Comparision:
 ![](Images/9.%20Model%20Comparision.png)
